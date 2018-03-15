@@ -1,0 +1,445 @@
+[
+    [
+        "D:\\SFDX\\quickapp\\force-app",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521071796751,
+            "changeTime": 1521071796751,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521071796752,
+            "changeTime": 1521071796752,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521074933551,
+            "changeTime": 1521074933551,
+            "contentHash": "cb7debf685a30bb93894eef8c66f10d76b529269",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580046,
+            "changeTime": 1521073580046,
+            "contentHash": "8e903bf1b3e7eab09fed3f99727ce1a217e35b20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\applications\\Volunteer.app-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\applications\\Volunteer.app-meta.xml",
+            "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1521073580047,
+            "changeTime": 1521073580047,
+            "contentHash": "c80a07c8c5faff26dd98474b2e5f19d0674c33b4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521071796752,
+            "changeTime": 1521071796752,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580051,
+            "changeTime": 1521073580051,
+            "contentHash": "2e9b57d476691e983040be232694397f96d73e34",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\flexipages\\Volunteer_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\flexipages\\Volunteer_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1521073580052,
+            "changeTime": 1521073580052,
+            "contentHash": "e79d656369abd4ecc5aa9ed781f4d9d4b56cd94e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580056,
+            "changeTime": 1521073580056,
+            "contentHash": "99ad0ce06117a90cbd5fb43d2b7b01b9a1e50391",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\layouts\\Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\layouts\\Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3617,
+            "modifiedTime": 1521075853467,
+            "changeTime": 1521075853467,
+            "contentHash": "fddad536e8a51fca4673f84058a0b5eda85c8822"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580071,
+            "changeTime": 1521073580071,
+            "contentHash": "c61ee2a57065ae8ed4497503b8ce6fae7fc57288",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580098,
+            "changeTime": 1521073580098,
+            "contentHash": "1acd30e4f5a5739e5501970005a469d83e962028",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580093,
+            "changeTime": 1521073580093,
+            "contentHash": "1b02fe8e6a83b8cfbbe911692bd8d3f1361e2b0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1521073580080,
+            "changeTime": 1521073580080,
+            "contentHash": "17c0b6d045214247160d1fd57b92ac8804f18744",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\End__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\End__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1521073580084,
+            "changeTime": 1521073580084,
+            "contentHash": "52e2791ef9ababda112027b144a480a1c4f01207",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Hours__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Hours__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 536,
+            "modifiedTime": 1521075247721,
+            "changeTime": 1521075247721,
+            "contentHash": "5a22374d1f9e547bac10f12952c76f851cdbc565",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Partner__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1521073580093,
+            "changeTime": 1521073580093,
+            "contentHash": "f92e3c13332c37ee557f72a227d62c0f2cff5293",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Start__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\fields\\Start__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 594,
+            "modifiedTime": 1521073580097,
+            "changeTime": 1521073580097,
+            "contentHash": "dfa5748a68289832992febff5bca8c99592f011b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\listViews",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580098,
+            "changeTime": 1521073580098,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1521073580102,
+            "changeTime": 1521073580102,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\Volunteer_Event__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\objects\\Volunteer_Event__c\\Volunteer_Event__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2142,
+            "modifiedTime": 1521073580075,
+            "changeTime": 1521073580075,
+            "contentHash": "5e2da6a609f6a71277933af1e92e7c4dc821436d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073580107,
+            "changeTime": 1521073580107,
+            "contentHash": "43de90e97efc746d802b536de95205c5d611b6fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\tabs\\Volunteer_Event__c.tab-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\tabs\\Volunteer_Event__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1521074933400,
+            "changeTime": 1521074933400,
+            "contentHash": "5796e83349bbab442be38c30b94cbc5f9e3e1358",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521073569964,
+            "changeTime": 1521073569964,
+            "contentHash": "2cc19c00dbbab86bde7686bf3ed71c478bc2648d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18981,
+            "modifiedTime": 1521074933485,
+            "changeTime": 1521074933485,
+            "contentHash": "8bf939997408448886054626665d33ac59ad1c89",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5585,
+            "modifiedTime": 1521074933508,
+            "changeTime": 1521074933508,
+            "contentHash": "933500b10fc24c4d7d23a4e583e902e61f5f47a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5585,
+            "modifiedTime": 1521074933528,
+            "changeTime": 1521074933528,
+            "contentHash": "933500b10fc24c4d7d23a4e583e902e61f5f47a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5923,
+            "modifiedTime": 1521074933541,
+            "changeTime": 1521074933541,
+            "contentHash": "0a11bf9b2203f5b23f8326586eb65fd4effd0a5f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\permissionsets\\Volunteer.permissionset-meta.xml",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\permissionsets\\Volunteer.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1638,
+            "modifiedTime": 1521074933555,
+            "changeTime": 1521074933555,
+            "contentHash": "b0e31f6fc1beb1273a2d08750349fe9b6c773309",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521074933539,
+            "changeTime": 1521074933539,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SFDX\\quickapp\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "D:\\SFDX\\quickapp\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521074933552,
+            "changeTime": 1521074933552,
+            "contentHash": "b669d6d508b5c03e2787ae33e6c87816da1cbe39",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
